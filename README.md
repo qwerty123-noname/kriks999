@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kriks999
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Frontend web-developing
+- 🌱 I’m currently learning Frontend(CSS/HTML/JS)
+- 💞️ I’m currently not looking to collaborate on any
 - 📫 How to reach me: email - kriks999@list.ru discord - Oki#9547 
 
 <!---
