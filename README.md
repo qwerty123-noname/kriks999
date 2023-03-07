@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=kriks999&style=for-the-badge&color=fcb8bc" alt=""/>
 </div>
 <div align="center"> 
-  <h1>Hllo! My first name is Vldislav, and my lst name is Deineko <img src="https://user-images.githubusercontent.com/101948786/223461452-15cc6925-e2f4-4ef4-9e50-a428bf5c1a65.gif" width="25"/></h1>
+  <h1>Hllo! My first name is Vldislav, and my lst name is Deineko <img src="https://user-images.githubusercontent.com/101948786/223461452-15cc6925-e2f4-4ef4-9e50-a428bf5c1a65.gif" width="20"/></h1>
 </div>
 
 >:heart: I’m interested in Frontend web-developing
