@@ -14,9 +14,17 @@
 
 >:revolving_hearts: How to reach me: email - kriks999@list.ru | discord - Oki#9547 
 ---
-### :hammer_and_wrench: Languages and Tools:
+## :hammer_and_wrench: My tech stack:
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</div>
+
+## :crystal_ball: Github stats:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://user-images.githubusercontent.com/101948786/223468020-5d99163e-0a3d-41de-acb3-51aa76926a24.png" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kriks999&theme=transparent&date_format=j%20M%5B%20Y%5D&background=EBEBEB00&border=FCB8BC&stroke=FCB8BC&ring=FCB8BC&fire=C08C8F&currStreakNum=C08C8F&sideNums=C08C8F&currStreakLabel=C08C8F&sideLabels=C08C8F&dates=C08C8F" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kriks999&show_icons=true&theme=dracula&bg_color=EBEBEB00&title_color=C08C8F&text_color=FCB8BC&icon_color=C08C8F&border_color=fcb8bc" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriks999&hide_progress=false&layout=compact&theme=dracula&bg_color=EBEBEB00&title_color=C08C8F&text_color=C08C8F&icon_color=C08C8F&border_color=fcb8bc&html=C08C8F" />
 </div>
