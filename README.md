@@ -25,7 +25,7 @@
 ## :crystal_ball: Github stats:
 <div>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kriks999&theme=transparent&date_format=j%20M%5B%20Y%5D&background=EBEBEB00&border=FCB8BC&stroke=FCB8BC&ring=FCB8BC&fire=C08C8F&currStreakNum=C08C8F&sideNums=C08C8F&currStreakLabel=C08C8F&sideLabels=C08C8F&dates=C08C8F" />
-  <img src="https://github-readme-stats.vercel.app/api?username=kriks999&show_icons=true&theme=dracula&bg_color=EBEBEB00&title_color=C08C8F&text_color=FCB8BC&icon_color=C08C8F&border_color=fcb8bc" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kriks999&hide_progress=false&layout=compact&theme=dracula&bg_color=EBEBEB00&title_color=C08C8F&text_color=C08C8F&icon_color=C08C8F&border_color=fcb8bc&html=C08C8F" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kriks999&theme=transparent&date_format=j%20M%5B%20Y%5D&background=EBEBEB00&border=FCB8BC&stroke=FCB8BC&ring=FCB8BC&fire=C08C8F&currStreakNum=C08C8F&sideNums=C08C8F&currStreakLabel=C08C8F&sideLabels=C08C8F&dates=C08C8F"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kriks999&show_icons=true&theme=dracula&bg_color=EBEBEB00&title_color=C08C8F&text_color=FCB8BC&icon_color=C08C8F&border_color=fcb8bc"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kriks999&hide_progress=false&layout=compact&theme=dracula&bg_color=EBEBEB00&title_color=C08C8F&text_color=C08C8F&icon_color=C08C8F&border_color=fcb8bc&html=C08C8F"/>
 </div>
